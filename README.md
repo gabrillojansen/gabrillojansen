@@ -1,5 +1,5 @@
 # Hi there! 👋
-<p>I am <strong>Jansen Gabrillo</strong></p>
+<p>I'm <strong>Jansen Gabrillo</strong></p>
 
 ## Socials:
 <a href="https://www.facebook.com/gabrillojansen/"><img src="https://img.shields.io/badge/gabrillojansen-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.instagram.com/gabrillojansen/"><img src="https://img.shields.io/badge/gabrillojansen-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/jansen-gabrillo-82ab96299/"><img src="https://img.shields.io/badge/gabrillojansen-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
